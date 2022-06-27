@@ -1,0 +1,118 @@
+/*page top*/
+.top{
+    outline: 2px solid black;
+    height: 450px;
+    text-align: center;
+    background-color: rgb(214, 235, 242);
+}
+.name{
+    color: red;
+    font-size: 40px;
+}
+.work{
+    font-size: 25px;
+    color: black;
+}
+
+/*address*/
+.address{
+outline: 2px solid black;
+height: 120px;
+background-color: rgb(214, 235, 242);
+}
+.add{
+    margin-left: 20px;
+}
+
+
+/* objective*/
+.objective{
+    outline: 2px solid black;
+    height: 100px;
+    background-color: rgb(214, 235, 242);
+}
+.obj{
+    margin-left: 20px
+}
+
+
+/*education table*/
+.education{
+    outline: 2px solid black;
+    height: 150px;
+    background-color: rgb(214, 235, 242);
+}
+.edu{
+    margin-left: 20px;
+}
+.intable{
+    background-color: solid white;
+}
+
+
+/*skill list*/
+.skills{
+    outline: 2px solid black;
+    height: 120px;
+    background-color: rgb(214, 235, 242);
+}
+.skillsinfo{
+    margin-left: 20px;
+}
+
+/*Hobbies*/
+.hobbies{
+    outline: 2px solid black;
+    height: 130px;
+    background-color: rgb(214, 235, 242);
+}
+.hobby{
+    margin-left: 20px;
+}
+
+/*personal information*/
+.personal{
+    outline: 2px solid black;
+    height: 200px;
+    background-color: rgb(214, 235, 242);
+}
+.infodata{
+    margin-left: 20px;
+}
+
+/*declaration*/
+.declaration{
+    outline: 2px solid black;
+    height: 80px;
+    background-color: rgb(214, 235, 242);
+}
+.declare{
+    margin-left: 20px;
+}
+
+/*Thank you*/
+.thanks{
+    text-align: center;
+}
+
+
+/*bottom*/
+.end{
+    display: flex;
+    justify-content: space-between;
+}
+.date{
+    margin-left: 10px;
+}
+.yours{
+    margin-right: 10px;
+}
+
+
+/*overall container*/
+.overall{
+    background-color: rgb(187, 222, 233);
+    outline: 2px solid black;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
