@@ -1,0 +1,104 @@
+/* resume top */
+.name{
+    text-align: center;
+    font-size: 40px;
+    color: solid black;
+    margin-bottom: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.fed{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+    height: 20px;
+}
+.gradient{
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    height: 50px;
+    text-align: center;
+}
+.fourinfo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'Merriweather Sans', sans-serif;
+    
+}
+.endline{
+    height: 3px;
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    margin-top: 10px;
+}
+
+/*summary*/
+.summary{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.endline2{
+    height: 6px;
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    margin-top: 10px;
+    margin: 20px;
+}
+
+/*key skills*/
+.keyskills{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.key{
+    margin-top: 10px;
+}
+.endline3{
+    height: 6px;
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    margin-top: 10px;
+    margin: 20px;
+}
+
+/*Technical skills*/
+.technical{
+    margin-left: 20px;
+    margin-top: 20px;  
+}
+.tech{
+    margin-top: 10px;
+}
+.endline4{
+    height: 6px;
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    margin-top: 10px;
+    margin: 20px;
+}
+
+/*Professional Experience*/
+.professional{
+    margin-left: 20px;
+    margin-top: 20px;  
+}
+.exp{
+    margin-top: 10px;
+}
+.endline5{
+    height: 6px;
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    margin-top: 10px;
+    margin: 20px;
+}
+
+/*Page bottom*/
+.education{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/*over all*/
+.overall{
+    /*font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;*/
+    font-family: 'Josefin Sans', sans-serif;
+}
